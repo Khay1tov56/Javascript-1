@@ -19,9 +19,9 @@ elBtn.addEventListener("click", function () {
     var elFamil = y.value;
     var elIdraqam = a.value;
     var elAgeval = b.value;
-    var s = DOLLAR_UZS.value;
+    var dollarvalue = DOLLAR_UZS.value;
     
-    var euro = s * SUMMA_UZS;
+    var euro = dollarvalue * SUMMA_UZS;
     
     elDemo.textContent = elName;
     elFm.textContent = elFamil;
