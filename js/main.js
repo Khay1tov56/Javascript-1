@@ -34,7 +34,7 @@ elBtn.addEventListener("click", function () {
     y.value = "";
     a.value = "";
     b.value = "";
-    // DOLLAR_UZS.value = "";
+    DOLLAR_UZS.value = "";
     
 })
 
